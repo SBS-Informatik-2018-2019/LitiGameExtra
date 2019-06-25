@@ -1,0 +1,6 @@
+Render Loop threw an exception:
+java.lang.NullPointerException
+	at de.gurkenlabs.utiliti.components.EditorScreen.render(EditorScreen.java:130)
+	at de.gurkenlabs.litiengine.graphics.RenderComponent.render(RenderComponent.java:157)
+	at de.gurkenlabs.litiengine.RenderLoop.process(RenderLoop.java:25)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:46)
